@@ -2,10 +2,6 @@
   "name": "shopaholic",
   "version": "1.0.0",
   "description": "Online clothing store",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "Md. Shohanur Rahman",
   "license": "ISC",
   "devDependencies": {
