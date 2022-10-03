@@ -125,7 +125,7 @@ class Product {
         }).format(price);
     }
     _renderError(error) {
-        const p = `<p class="font-light">${error}</p>`;
+        const p = `<p class="font-light dark:text-gray-400">${error}</p>`;
         productWrapper.insertAdjacentHTML("beforeend", p);
     }
 }
